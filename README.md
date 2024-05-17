@@ -22,8 +22,8 @@
 <a href="https://linkedin.com/in/gokul-ram-j-7b41b625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-ram-j-7b41b625a" height="30" width="40" /></a>
 <a href="https://instagram.com/mass_gokul_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mass_gokul_ram" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gokulram221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulram221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gokulram2221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gokulram2221/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gokulra35oh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gokulra35oh/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gokulram2221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gokulram2221/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/gokulra35oh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gokulra35oh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
