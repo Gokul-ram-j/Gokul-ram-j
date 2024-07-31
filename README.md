@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://gokulramj.netlify.app/](https://gokulramj.netlify.app/)
+- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://gokul-ram-j.github.io/myPortfolio/)
 
 - 💬 Ask me about **MERN , Python**
 
