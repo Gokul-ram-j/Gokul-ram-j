@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 👋 Hello, world! I'm Gokul Ram J, a passionate 3rd-year Computer Science student from Chennai. 🌟<br><br>💻 I specialize in web development and love building interactive and user-friendly React web applications. With a keen interest in the MERN stack, I enjoy creating full-stack projects that solve real-world problems.<br><br>🧩 When I'm not coding up beautiful UIs, you'll find me honing my skills in Data Structures and Algorithms, tackling challenging problems, and improving my problem-solving abilities.<br><br>🚀 I’m currently exploring cutting-edge web technologies and leveling up my expertise in React, Node.js, and other tools in the MERN ecosystem.<br><br>⚡ Fun fact: I'm always up for a challenge! Whether it's a coding competition or building something new, I love diving deep and making things work.<br><br>Let’s connect and build something amazing together! 🤝
 
@@ -18,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gokul-ram-j&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div/>
