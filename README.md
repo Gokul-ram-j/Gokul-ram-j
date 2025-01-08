@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-ram-j&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]([![trophy](https://github-profile-trophy.vercel.app/?Gokul-ram-j=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy))
+[![trophy](https://github-profile-trophy.vercel.app/?Gokul-ram-j=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokul-ram-j&icon=4&color=1)](https://visitcount.itsvg.in)
