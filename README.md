@@ -2,7 +2,15 @@
 <div align="center">
   <h1>About Me</h1>
 <img align="right" alt="img" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-👋 Hello, world! I'm Gokul Ram J, a passionate 3rd-year Computer Science student from Chennai. 🌟<br><br>💻 I specialize in web development and love building interactive and user-friendly React web applications. With a keen interest in the MERN stack, I enjoy creating full-stack projects that solve real-world problems.<br><br>🧩 When I'm not coding up beautiful UIs, you'll find me honing my skills in Data Structures and Algorithms, tackling challenging problems, and improving my problem-solving abilities.<br><br>🚀 I’m currently exploring cutting-edge web technologies and leveling up my expertise in React, Node.js, and other tools in the MERN ecosystem.<br><br>⚡ Fun fact: I'm always up for a challenge! Whether it's a coding competition or building something new, I love diving deep and making things work.<br><br>Let’s connect and build something amazing together! 🤝
+<h1 align="center">🚀 GOKUL RAM J 🚀</h1> 
+
+
+### 💻 MERN Stack & React Native Developer  
+### 🧠 Learning PyTorch | Passion for AI  
+### 📌 Coding in Java, Python & JavaScript  
+
+🚀 *Building Scalable Apps | Learning Continuously | Solving Problems*  
+
 
 
 ## 🌐 Socials:
