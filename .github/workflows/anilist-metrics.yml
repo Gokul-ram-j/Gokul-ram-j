@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 🎬 ANIME METRICS
+      # 🎬 ANIME METRICS (WITH SUMMARY)
       - name: AniList - Anime
         uses: lowlighter/metrics@latest
         with:
@@ -32,7 +32,7 @@ jobs:
           plugin_anilist_sections: watching,favorites
           plugin_anilist_limit: 5
 
-      # 🌟 CHARACTERS METRICS
+      # 🌟 CHARACTERS METRICS (NO DUPLICATE CONTEXT)
       - name: AniList - Characters
         uses: lowlighter/metrics@latest
         with:
@@ -47,7 +47,10 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: newbieExplorer
           plugin_anilist_sections: characters
+          plugin_anilist_medias: ""
+          plugin_anilist_limit: 0
           plugin_anilist_limit_characters: 12
+          plugin_anilist_title: no
 
       # 🚀 COMMIT & PUSH
       - name: Commit & Push
