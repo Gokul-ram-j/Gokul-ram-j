@@ -18,18 +18,23 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: NOT_NEEDED
+          user: Gokul-ram-j
+
           filename: metrics-anilist.svg
+          output_action: github
+          output_condition: always
+
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: newbieExplorer
           plugin_anilist_medias: anime,manga
           plugin_anilist_sections: favorites,watching,reading
           plugin_anilist_limit: 5
-          plugin_anilist_limit_characters: 15
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add metrics-anilist.svg
+          git add .
           git commit -m "chore: update AniList metrics" || exit 0
           git push origin HEAD:main
