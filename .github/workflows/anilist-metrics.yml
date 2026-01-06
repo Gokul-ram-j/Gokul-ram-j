@@ -1,0 +1,52 @@
+name: GitHub Metrics - AniList
+
+on:
+  schedule:
+    - cron: "0 12 * * *"    # runs every day at UTC 12:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate AniList Anime SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-anilist-anime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
+
+      - name: Generate AniList Manga SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-anilist-manga.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 5
+
+      - name: Generate AniList Favorite Characters SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-anilist-characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add metrics-anilist-*.svg
+          git commit -m "chore: add AniList metrics" || exit 0
+          git push origin HEAD:main
