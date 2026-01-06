@@ -20,6 +20,49 @@ Competitive programmer who enjoys grinding problems and improving every day.<br>
 <table width="100%">
   <tr>
 
+<!-- LEFT COLUMN (leave empty or add something later) -->
+<td width="50%" valign="top">
+  <h3>🌸 AniList – Anime</h3>
+  <img
+    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg"
+    width="100%"
+  />
+
+  <br/><br/>
+
+  <h3>🌟 AniList – Favorite Characters</h3>
+  <img
+    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg"
+    width="100%"
+  />
+</td>
+
+<!-- RIGHT COLUMN : ANILIST -->
+<td width="50%" valign="top" align="right">
+
+  <h3>🌸 AniList – Anime</h3>
+  <img
+    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg"
+    width="100%"
+  />
+
+  <br/><br/>
+
+  <h3>🌟 AniList – Favorite Characters</h3>
+  <img
+    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg"
+    width="100%"
+  />
+
+</td>
+
+  </tr>
+</table>
+
+---
+<table width="100%">
+  <tr>
+
 <!-- LEFT COLUMN : VISUALS -->
 <td width="50%" valign="top" align="left">
 
@@ -34,7 +77,7 @@ Competitive programmer who enjoys grinding problems and improving every day.<br>
 
   <h3>📊 GitHub 3D Contribution Graph</h3>
   <img 
-    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/profile-3d-contrib/profile-season-animate.svg"
+    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
     height="280"
   />
