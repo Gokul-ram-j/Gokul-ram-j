@@ -22,39 +22,18 @@ Competitive programmer who enjoys grinding problems and improving every day.<br>
 
 <!-- LEFT COLUMN (leave empty or add something later) -->
 <td width="50%" valign="top">
-  <h3>🌸 AniList – Anime</h3>
   <img
     src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg"
     width="100%"
   />
-
-  <br/><br/>
-
-  <h3>🌟 AniList – Favorite Characters</h3>
+  <br/>
   <img
     src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg"
     width="100%"
   />
 </td>
 
-<!-- RIGHT COLUMN : ANILIST -->
-<td width="50%" valign="top" align="right">
 
-  <h3>🌸 AniList – Anime</h3>
-  <img
-    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg"
-    width="100%"
-  />
-
-  <br/><br/>
-
-  <h3>🌟 AniList – Favorite Characters</h3>
-  <img
-    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg"
-    width="100%"
-  />
-
-</td>
 
   </tr>
 </table>
