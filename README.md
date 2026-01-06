@@ -44,17 +44,21 @@ Competitive programmer who enjoys grinding problems and improving every day.<br>
 
 <!-- LEFT COLUMN : VISUALS -->
 <td width="50%" valign="top" align="left">
+<h3>📊 GitHub Contribution Activity</h3>
 
-  <h3>🐍 GitHub Activity Snake</h3>
+<p>
+A visual overview of my GitHub contributions, highlighting consistency, growth,
+and hands-on development across projects.
+</p>
+
   <img 
     src="https://github.com/Gokul-ram-j/Gokul-ram-j/blob/output/github-snake-dark.svg"
     width="100%"
     height="180"
   />
 
-  <br/><br/>
+  <br/>
 
-  <h3>📊 GitHub 3D Contribution Graph</h3>
   <img 
     src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
