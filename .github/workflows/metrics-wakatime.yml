@@ -1,0 +1,27 @@
+name: GitHub WakaTime Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+
+          # ⏰ WakaTime plugin
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
