@@ -1,0 +1,25 @@
+name: GitHub Starred Topics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-topics.svg
+          token: NOT_NEEDED
+          base: ""
+
+          # ⭐ Starred Topics Plugin
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_topics_limit: 0   # 0 = show all available
