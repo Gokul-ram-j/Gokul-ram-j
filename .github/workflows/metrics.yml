@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # updates daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Base content
+          base: header, activity, community, repositories, metadata
+
+          # Layout
+          config_display: large
+          config_padding: 0, 8
+          config_timezone: Asia/Kolkata
