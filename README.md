@@ -2,57 +2,57 @@
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="24" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" title="React Native"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="24" title="Three.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="24" title="Vite.js"/>
-  <img src="https://cdn.simpleicons.org/swiper" width="24" title="Swiper.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="28" title="Three.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="28" title="Vite.js"/>
+  <img src="https://cdn.simpleicons.org/swiper" width="28" title="Swiper.js"/>
 
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="24" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="24" title="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="24" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="24" title="Apache Tomcat"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="28" title="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="28" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="28" title="Apache Tomcat"/>
 
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" title="C"/>
-  <img src="https://cdn.simpleicons.org/json" width="24" title="JSON"/>
-  <img src="https://cdn.simpleicons.org/yaml" width="24" title="YAML"/>
-  <img src="https://cdn.simpleicons.org/latex" width="24" title="LaTeX"/>
-  <img src="https://cdn.simpleicons.org/markdown" width="24" title="Markdown"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" title="C"/>
+  <img src="https://cdn.simpleicons.org/json" width="28" title="JSON"/>
+  <img src="https://cdn.simpleicons.org/yaml" width="28" title="YAML"/>
+  <img src="https://cdn.simpleicons.org/latex" width="28" title="LaTeX"/>
+  <img src="https://cdn.simpleicons.org/markdown" width="28" title="Markdown"/>
 
   <!-- Databases & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="24" title="Firebase"/>
-  <img src="https://cdn.simpleicons.org/netlify" width="24" title="Netlify"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="28" title="Firebase"/>
+  <img src="https://cdn.simpleicons.org/netlify" width="28" title="Netlify"/>
 
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="24" title="NPM"/>
-  <img src="https://cdn.simpleicons.org/nodemon" width="24" title="Nodemon"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="24" title="Eclipse IDE"/>
-  <img src="https://cdn.simpleicons.org/expo" width="24" title="Expo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="24" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/swagger" width="24" title="Swagger"/>
-  <img src="https://cdn.simpleicons.org/figma" width="24" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/notion" width="24" title="Notion"/>
-  <img src="https://cdn.simpleicons.org/stackoverflow" width="24" title="Stack Overflow"/>
-  <img src="https://cdn.simpleicons.org/leetcode" width="24" title="LeetCode"/>
-  <img src="https://cdn.simpleicons.org/google" width="24" title="Google"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="28" title="NPM"/>
+  <img src="https://cdn.simpleicons.org/nodemon" width="28" title="Nodemon"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="28" title="Eclipse IDE"/>
+  <img src="https://cdn.simpleicons.org/expo" width="28" title="Expo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/swagger" width="28" title="Swagger"/>
+  <img src="https://cdn.simpleicons.org/figma" width="28" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/notion" width="28" title="Notion"/>
+  <img src="https://cdn.simpleicons.org/stackoverflow" width="28" title="Stack Overflow"/>
+  <img src="https://cdn.simpleicons.org/leetcode" width="28" title="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/google" width="28" title="Google"/>
 
 </p>
 
