@@ -1,0 +1,30 @@
+name: GitHub Coding Habits
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics-habits.svg
+          base: ""
+
+          # 💡 Coding habits plugin
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+
+          # 🌍 Timezone (IMPORTANT)
+          config_timezone: Asia/Kolkata
