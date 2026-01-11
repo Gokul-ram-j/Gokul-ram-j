@@ -1,3 +1,10 @@
+<!-- Github Profile Summary -->
+
+![GitHub Metrics](./metrics.classic.svg)
+
+
+<!-- Skillset -->
+
 [**Familiar Tech**]()
 
 <p align="left">
@@ -56,30 +63,56 @@
 
 </p>
 
+<!-- My Capabilities -->
 
-![GitHub Metrics](./metrics.classic.svg)
+[**What I’m Skilled At**]()
 
+<p align="left">
+
+![Problem Solving & Algorithms](https://img.shields.io/badge/Problem%20Solving%20%26%20Algorithms-1f6feb?style=flat-pill)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-1f6feb?style=flat-pill)
+![Open Source Contributions](https://img.shields.io/badge/Open%20Source%20Contributions-1f6feb?style=flat-pill)
+![Responsive Web Applications](https://img.shields.io/badge/Responsive%20Web%20Applications-1f6feb?style=flat-pill)
+![UI/UX Web Design](https://img.shields.io/badge/UI%2FUX%20Web%20Design-1f6feb?style=flat-pill)
+![Scalable Backend Systems](https://img.shields.io/badge/Scalable%20Backend%20Systems-1f6feb?style=flat-pill)
+![Database Design & Management](https://img.shields.io/badge/Database%20Design%20%26%20Management-1f6feb?style=flat-pill)
+![AI-Powered Web Applications](https://img.shields.io/badge/AI--Powered%20Web%20Applications-1f6feb?style=flat-pill)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-1f6feb?style=flat-pill)
+![RAG-Based Systems](https://img.shields.io/badge/RAG--Based%20Systems-1f6feb?style=flat-pill)
+![Cross-Platform Applications](https://img.shields.io/badge/Cross--Platform%20Applications-1f6feb?style=flat-pill)
+![Web & Mobile Applications](https://img.shields.io/badge/Web%20%26%20Mobile%20Applications-1f6feb?style=flat-pill)
+
+</p>
+
+<!-- Anime Profile & Tools Used with Time and 3d Graph -->
 
 <table width="100%">
-  <tr>
+<tr>
 
-<!-- LEFT COLUMN (leave empty or add something later) -->
+<!-- LEFT COLUMN : ANIME -->
 <td width="50%" valign="top">
-  <img
-    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg"
-    width="100%"
-  />
+  <h3>🎌 Anime Activity</h3>
+  <img src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-anime.svg" width="100%"/>
   <br/>
-  <img
-    src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Gokul-ram-j/Gokul-ram-j/main/metrics-anilist-characters.svg" width="100%"/>
 </td>
-  </tr>
+
+<!-- RIGHT COLUMN : CODING -->
+<td width="50%" valign="top">
+  <h3>⏰ Coding Activity</h3>
+  <img src="./metrics-wakatime.svg" width="100%"/>
+  <br/><br/>
+  <h3>🗳️ LeetCode Activity</h3>
   
+  ![LeetCode Stats](./metrics-leetcode.svg)
+</td>
+
+</tr>
 </table>
 
 
+
+<!-- snake game like contrbution graph-->
 <img 
     src="https://github.com/Gokul-ram-j/Gokul-ram-j/blob/output/github-snake-dark.svg"
     width="100%"
@@ -88,6 +121,5 @@
 
 
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
