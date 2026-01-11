@@ -1,0 +1,25 @@
+name: GitHub LeetCode Metrics
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # daily update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+
+          # 🗳️ LeetCode plugin
+          plugin_leetcode: yes
+          plugin_leetcode_user: gokulram2221
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_skills: 10
