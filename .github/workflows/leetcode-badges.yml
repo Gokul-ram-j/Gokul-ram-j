@@ -2,8 +2,8 @@ name: LeetCode Badges Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
-  workflow_dispatch:       # Allows manual run
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
 
 jobs:
   update-leetcode:
@@ -11,13 +11,20 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Fetch LeetCode Stats Badge
+      - name: Download LeetCode Badge
         run: |
-          curl -L -o leetcode-badge.svg "https://leetcode-stats.vercel.app/api?username=gokulram2221&theme=dark"
+          curl -L \
+          -H "Accept: image/svg+xml" \
+          "https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" \
+          -o leetcode-badge.svg
 
-      - name: Commit and Push if changed
+      - name: Verify file is SVG
+        run: |
+          head leetcode-badge.svg
+
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
