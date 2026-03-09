@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Number of Flips to Make the Binary String Alternating</div>
-                            <div class="date">7 Mar 2026</div>
+                            <div class="title">Find Unique Binary String</div>
+                            <div class="date">8 Mar 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Common Prefix</div>
-                            <div class="date">5 Mar 2026</div>
+                            <div class="title">Minimum Number of Flips to Make the Binary String Alternating</div>
+                            <div class="date">7 Mar 2026</div>
                         </div>
                     </div>
                 </section>
