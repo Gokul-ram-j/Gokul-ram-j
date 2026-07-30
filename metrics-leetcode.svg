@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Aggregate Two Time Series</div>
-                            <div class="date">28 Jul 2026</div>
+                            <div class="title">Subarray Sum Equals K</div>
+                            <div class="date">29 Jul 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Smallest Palindromic Rearrangement I</div>
-                            <div class="date">28 Jul 2026</div>
+                            <div class="title">Maximum Subarray</div>
+                            <div class="date">29 Jul 2026</div>
                         </div>
                     </div>
                 </section>
