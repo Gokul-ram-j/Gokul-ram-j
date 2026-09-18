@@ -64,12 +64,12 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x396</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x215</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x216</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x157</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x117</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x103</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x85</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x80</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x82</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x74</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x57</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x57</span></div>
